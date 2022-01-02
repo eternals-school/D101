@@ -15,6 +15,63 @@
 ## Contents
 
 + Course Overview
++ Basic
+  - Primitives
+  - Variables
+  - Constants
++ Know it
+  - Types
+  - Operators
+  - Program Flow
++ Function
+  - Basic
+  - Passing data
+  - Returning data
++ Objects
+   - Basic
+   - Object Properties
+   - Object Methods
+   - Passing Objects to Functions
++ Standard properties
+   - Value properties
+   - Function properties
++ Standard Built-in Objects
+   - Fundamental objects
+   - Error objects
+   - Numbers, Text and dates
++ collections
+   - Keyed collections
+   - Indexed collections 
++ collection Manipulation
+   - Array
+   - Map
+   - Set
++ Structured data
+   - ArrayBuffer
+   - SharedArrayBuffer
+   - Atomics
+   - DataView
+   - JSON
++ Control abstraction objects
+   - Promise
+   - Generator
+   - GeneratorFunction
+   - AsyncFunction
++ The Document Object Model (DOM)
+   - Styling DOM Elements
+   - Detecting Button Clicks
+   - Showing and Hiding DOM Elements
++ Scopes 
+   - Global
+   - functional
+   - Variable & Hoisting
+   - Strict mode
+   - Closures
++ Class
+   - "this"
+   - Callbacks
++ ES6 
+   - 
 
 
 
