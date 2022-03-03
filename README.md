@@ -7,7 +7,7 @@
 <span>This course is created as on <a href=#><b>Dec 31</b></a>
 </span>
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/eternals-school/D101)
+<!-- [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/eternals-school/D101) -->
 
 </div>
 
