@@ -1,4 +1,4 @@
-# D100 - Javascript ES5 & ES6 Eternals - Nivendha
+# D101 - Javascript ES5 & ES6 Eternals - Nivendha
 
 <div align="center">
   <img height="60" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
